@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My text here!!
+la nada misma es algo chistoso... pero vue
 Use the left arrow to go back!
